@@ -5,3 +5,4 @@ Brian Childs 2024 resume
 - HTML
 - CSS
 ## Link
+[Brian Childs Resume](URL)
